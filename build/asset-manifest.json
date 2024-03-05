@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.529827ed.css",
+    "main.js": "/static/js/main.ff20313b.js",
+    "static/js/496.797def9b.chunk.js": "/static/js/496.797def9b.chunk.js",
+    "static/media/фон.jpg": "/static/media/фон.3f29aec6825aca663e38.jpg",
+    "index.html": "/index.html",
+    "main.529827ed.css.map": "/static/css/main.529827ed.css.map",
+    "main.ff20313b.js.map": "/static/js/main.ff20313b.js.map",
+    "496.797def9b.chunk.js.map": "/static/js/496.797def9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529827ed.css",
+    "static/js/main.ff20313b.js"
+  ]
+}
